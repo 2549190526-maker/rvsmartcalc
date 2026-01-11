@@ -1,12 +1,16 @@
-![Hidden costs of RV loans](/blog/rv-loan-traps-main.jpg)
-
 ---
 title: "[How RV Dealers Trick You Into Donating $40,000 in Loan Interest]"
 date: "2026-01-11"
 description: "Most first-time RV buyers don't realize they're signing away tens of thousands in interest before they even leave the lot. This guide rips apart dealer tactics, shows you how the math buries you in debt, and hands you the tools to stop paying the hidden stupidity tax on every purchase."
+image: "/images/blog/rv-loan-traps-main.jpg"
+author: "Sarah Johnson"
+readTime: "12 min read"
+featured: true
 ---
 
 **If you let the dealer choose your RV loan, you’re not financing a rig. You’re quietly wiring your future travel budget straight into their profit column.**
+
+![Hidden costs of RV loans](/blog/rv-loan-traps-main.jpg)
 
 They don’t need to lie to you.
 

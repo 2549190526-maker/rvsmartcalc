@@ -50,7 +50,7 @@ export default function BlogIndexPage() {
         <div className="container mx-auto px-4">
           {/* Featured Article */}
           {featuredArticle && (
-            <div className="mb-12 hidden md:block">
+            <div className="mb-12 md:block">
               <h2 className="text-2xl font-bold mb-6 flex items-center gap-2">
                 <span className="bg-[#d4af37] w-2 h-8 rounded-full inline-block"></span>Featured Story
               </h2>
