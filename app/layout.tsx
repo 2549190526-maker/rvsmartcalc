@@ -17,39 +17,44 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  // 1. 基础标题模板 (每个页面没写标题时显示这个)
+  // 1. 升级版标题：加入“避坑”心理暗示
   title: {
-    default: "RVSmartCalc - RV Loan & Ownership Cost Calculators",
-    template: "%s | RVSmartCalc",
+    default: "RV Smart Calc | Avoid Costly Mistakes with Our RV Calculators",
+    template: "%s | RV Smart Calc",
   },
-  // 2. 网站描述 (Google 搜索结果下方的文字)
-  description: "Calculate RV loans, affordability, and true cost of ownership. Expert tools to help you make smart financial decisions before buying your dream RV.",
-  // 3. 关键词 (帮搜索引擎归类)
+
+  // 2. 升级版描述：利用“损失厌恶”，让用户觉得不点进来就会亏钱
+  description: "Stop losing money on hidden RV costs. Our specialized calculators for loans, fuel, and maintenance empower you to take control of your financial RV dream.",
+
+  // 3. 精准关键词
   keywords: [
     "RV Loan Calculator",
     "RV Affordability",
-    "RV Cost of Ownership",
-    "Camper Financing",
-    "Towing Capacity Calculator",
+    "Hidden RV Costs",
+    "Motorhome Financing Traps",
+    "RV Maintenance Budget",
     "RV Lifestyle Cost"
   ],
+
   // 4. 作者与版权
-  authors: [{ name: "RVSmartCalc Team" }],
+  authors: [{ name: "RVSmartCalc Expert Team" }],
   creator: "RVSmartCalc",
-  // 5. Open Graph (当链接分享到 Facebook/Twitter/iMessage 时显示的效果)
+
+  // 5. 社交媒体分享优化 (Open Graph)
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://www.rvsmartcalc.com", // 上线后换成你的真实域名
-    title: "RVSmartCalc - Smart Tools for RV Owners",
-    description: "Don't overpay for your RV. Use our free calculators to check payments, hidden costs, and towing safety.",
+    url: "https://rvsmartcalc.com", 
+    title: "Don't Overpay for Your RV - Use RVSmartCalc",
+    description: "The only financial tool designed by real RVers to help you dodge dealership traps.",
     siteName: "RVSmartCalc",
   },
-  // 6. 图标配置 (Next.js 会自动找 public 里的文件，这里显式声明更稳)
+
+  // 6. 图标配置
   icons: {
     icon: "/favicon.ico",
   },
-}
+};
 
 export default function RootLayout({
   children,
