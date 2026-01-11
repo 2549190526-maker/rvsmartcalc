@@ -1,3 +1,5 @@
+![Hidden costs of RV loans](/blog/rv-loan-traps-main.jpg)
+
 ---
 title: "[How RV Dealers Trick You Into Donating $40,000 in Loan Interest]"
 date: "2026-01-11"
