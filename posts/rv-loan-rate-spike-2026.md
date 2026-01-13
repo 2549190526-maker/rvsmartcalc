@@ -15,7 +15,7 @@ Google Trends doesn’t lie—people are panicked about RV interest rates.
 
 Searches for “RV loan rates” and “HELOC” are up roughly **140%**.
 
-That’s not curiosity.
+That’s not curiosity..
 
 That’s fear.
 
