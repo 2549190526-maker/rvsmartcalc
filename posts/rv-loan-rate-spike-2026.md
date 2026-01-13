@@ -3,7 +3,7 @@ title: "RV Loan Rates Hit a 2026 Spike: Is a HELOC the Answer or a Debt Trap?"
 date: "2026-01-13"
 category: "Market Trends"
 excerpt: "RV loan searches are up 140%. With interest rates shifting, buyers are turning to HELOCs and Credit Unions. Before you bet your home on a camper, read this."
-image: "/blog/rv-loan-trends-2026.jpg"
+image: "/blog/rv-loan-spike.jpg"
 author: "RVSmartCalc Team"
 readTime: "7 min read"
 featured: true
